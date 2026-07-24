@@ -1,0 +1,316 @@
+/* ============================================================
+   Hellvoc Hemiksem-Schelle - wedstrijdkalender (gedeelde logica)
+   Gebruikt door: index.html (competitie), beker.html, kalender.html
+   ONDERHOUD (1x per seizoen): controleer de reekscodes in TEAMS.
+   Onbekende competitiecodes verschijnen automatisch onder
+   "Overige reeksen" op de competitiepagina.
+============================================================ */
+(function () {
+  "use strict";
+  var MODE = window.XXW_MODE || "kalender";
+  var CSS = ".xx-wed-root{width:100%;min-height:100vh;box-sizing:border-box; background:#000;padding:clamp(12px,3vw,32px); font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif;} .xx-wed-root *{box-sizing:border-box;} .xx-wed-inner{max-width:860px;margin:0 auto;} .xx-wed-team{background:#fff;border-radius:10px;margin-bottom:10px;overflow:hidden;} .xx-wed-team>summary{display:flex;align-items:center;gap:10px;cursor:pointer;list-style:none; background:#0d1b2a;color:#fff;padding:14px clamp(12px,2.5vw,20px);user-select:none;} .xx-wed-team>summary::-webkit-details-marker{display:none;} .xx-wed-team-name{font-size:clamp(15px,2.2vw,17px);font-weight:700;flex:1;} .xx-wed-count{font-size:clamp(11px,1.8vw,13px);color:#9fb3c8;font-weight:400;} .xx-wed-chevron{width:14px;height:14px;flex:none;transition:transform .2s ease;} .xx-wed-team[open] .xx-wed-chevron{transform:rotate(180deg);} .xx-wed-list{padding:4px clamp(8px,2vw,14px) 10px;} .xx-wed-subhead{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.04em; color:#0d1b2a;padding:16px 6px 5px;border-bottom:2px solid #0d1b2a;margin-bottom:2px;} .xx-wed-row{display:flex;align-items:flex-start;gap:clamp(8px,2vw,14px); padding:9px 6px;border-bottom:1px solid #e8e8e8;} .xx-wed-row:last-child{border-bottom:none;} .xx-wed-icon{flex:none;width:26px;height:26px;border-radius:50%;display:flex; align-items:center;justify-content:center;margin-top:1px;} .xx-wed-icon--home{background:#e3f4e3;} .xx-wed-icon--away{background:#e3ecf7;} .xx-wed-icon-svg{width:15px;height:15px;display:block;} .xx-wed-datetime{flex:none;width:clamp(96px,16vw,120px);display:flex;flex-direction:column;} .xx-wed-date{font-size:clamp(12px,1.9vw,14px);font-weight:600;color:#1a1a1a;} .xx-wed-time{font-size:clamp(11px,1.7vw,13px);color:#666;} .xx-wed-info{flex:1;min-width:0;} .xx-wed-teamtag{display:block;font-size:11px;color:#888;margin-bottom:1px;} .xx-wed-venue-toggle{position:relative;} .xx-wed-venue-toggle>summary{list-style:none;cursor:pointer;display:inline-flex; align-items:center;gap:5px;font-size:clamp(13px,2vw,15px);color:#1a1a1a; text-decoration:underline dotted #999;text-underline-offset:3px;} .xx-wed-venue-toggle>summary::-webkit-details-marker{display:none;} .xx-wed-opponent--plain{font-size:clamp(13px,2vw,15px);color:#1a1a1a;} .xx-wed-pin-svg{width:13px;height:13px;flex:none;} .xx-wed-venue-popup{margin-top:6px;background:#f4f6f8;border:1px solid #d8dee5; border-radius:8px;padding:10px 12px;font-size:clamp(12px,1.9vw,14px);} .xx-wed-venue-address{display:block;color:#333;margin-bottom:6px;} .xx-wed-venue-maps-link{color:#0d47a1;font-weight:600;text-decoration:none;} .xx-wed-venue-maps-link:hover{text-decoration:underline;} .xx-wed-venue-note{display:block;font-size:clamp(12px,1.9vw,14px);color:#888;} .xx-wed-score{display:inline-block;margin-left:7px;padding:1px 7px;border-radius:9px; background:#0d1b2a;color:#fff;font-size:11.5px;font-weight:700;white-space:nowrap;} .xx-wed-badge{display:inline-block;margin-left:7px;padding:1px 7px;border-radius:9px; background:#c62828;color:#fff;font-size:11px;font-weight:700;} .xx-wed-tabs{display:flex;gap:8px;margin-bottom:14px;} .xx-wed-tab{flex:1;padding:10px 12px;border:1px solid #3a4a5c;border-radius:8px; background:transparent;color:#9fb3c8;font-family:inherit; font-size:clamp(13px,2vw,15px);font-weight:600;cursor:pointer;} .xx-wed-tab--on{background:#0d1b2a;color:#fff;border-color:#33506e;} .xx-wed-cat{color:#9fb3c8;font-size:12px;font-weight:700;text-transform:uppercase; letter-spacing:.08em;margin:18px 2px 8px;} .xx-wed-super{display:inline-block;margin-left:7px;padding:1px 7px;border-radius:9px; background:#D5C810;color:#1a1a1a;font-size:11px;font-weight:700;white-space:nowrap;} .xx-wed-msg{background:#fff;border-radius:10px;padding:18px;color:#333; font-size:14px;text-align:center;} .xx-wed-msg a{color:#0d47a1;font-weight:600;} .xx-wed-live{display:flex;align-items:center;justify-content:center;gap:8px; color:#fff;font-size:clamp(12px,1.9vw,14px);font-weight:600;margin-bottom:12px;} .xx-wed-live small{color:#9fb3c8;font-weight:400;} .xx-wed-livedot{width:9px;height:9px;border-radius:50%;background:#2ecc71;flex:none; animation:xxwpulse 2s ease-in-out infinite;} @keyframes xxwpulse{0%,100%{box-shadow:0 0 0 0 rgba(46,204,113,.55);} 50%{box-shadow:0 0 0 6px rgba(46,204,113,0);}}";
+  var SPRITE = "<svg style=\"display:none\" aria-hidden=\"true\"> <symbol id=\"xxw-home\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"#2e7d32\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 10.5 12 3l9 7.5\"/><path d=\"M5 9.5V21h14V9.5\"/></g></symbol> <symbol id=\"xxw-away\" viewBox=\"0 0 24 24\"><path fill=\"#0d47a1\" d=\"M21.5 15.5v-2l-8.5-5V3.2a1.2 1.2 0 0 0-2.4 0v5.3l-8.5 5v2l8.5-2.6v5.3l-2.3 1.7v1.6l3.5-1 3.5 1v-1.6l-2.3-1.7v-5.3z\"/></symbol> <symbol id=\"xxw-pin\" viewBox=\"0 0 24 24\"><path fill=\"#c62828\" d=\"M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6a2.5 2.5 0 0 1 0 5.5z\"/></symbol> <symbol id=\"xxw-chev\" viewBox=\"0 0 24 24\"><path fill=\"none\" stroke=\"#fff\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m6 9 6 6 6-6\"/></symbol> </svg>";
+  var root = document.getElementById("xxw");
+  root.className = "xx-wed-root";
+  root.innerHTML = "<style>" + CSS + "</style>" + SPRITE +
+    '<div class="xx-wed-inner" id="xxw-inner">' +
+    '<div class="xx-wed-msg">Wedstrijden laden\u2026</div></div>';
+  var CLUB = "AA-1342";
+  var FEED = "https://www.volleyadmin2.be/services/wedstrijden_xml.php?stamnummer=" + CLUB + "&format=json";
+  var FALLBACK_URL = "https://www.volleyscores.be/direct/" + CLUB;
+
+  // reekscode -> [ploegnaam, reekslabel, sorteervolgorde]
+  var TEAMS = {
+    "NAT1H":        ["Heren A", "Nationale 1", 1],
+    "NAT3H-C":      ["Heren B", "Nationale 3", 2],
+    "AHP2":         ["Heren C", "Promo 2", 3],
+    "AHP4A":        ["Heren D", "Promo 4", 4],
+    "NAT1D":        ["Dames A", "Nationale 1", 5],
+    "ADP2-A":       ["Dames B", "Promo 2", 6],
+    "ADP3-B":       ["Dames C", "Promo 3", 7],
+    "ADP4A":        ["Dames D", "Promo 4", 8],
+    "ADP5AA":       ["Dames E", "Promo 5", 9],
+    "ADP5AB":       ["Dames F", "Promo 5", 10],
+    "AJU17N2R1-B":  ["Jongens U17", "Niveau 2", 11],
+    "AJU13N1R1":    ["Jongens U13 A", "Niveau 1", 12],
+    "AJU13N2R1-D":  ["Jongens U13 B", "Niveau 2", 13],
+    "AMU17N2R1-B":  ["Meisjes U17 A", "Niveau 2", 14],
+    "AMU17N3R1-A":  ["Meisjes U17 B", "Niveau 3", 15],
+    "AMU15N1R1-D":  ["Meisjes U15 A", "Niveau 1", 16],
+    "AMU15N3R1-B":  ["Meisjes U15 B", "Niveau 3", 17],
+    "AMU13N2R1-B":  ["Meisjes U13", "Niveau 2", 18],
+    "AU11N3R1-B":   ["U11", "Niveau 3", 19]
+  };
+  // leesbare namen voor beker-reeksen (onbekende codes tonen de code zelf)
+  var BEKER_NAMES = {
+    "BCH": "Belgian Cup Heren", "BCD": "Belgian Cup Dames",
+    "IBH": "Interfederale Beker Heren",
+    "BvASH": "Beker van Antwerpen \u2013 Seniors Heren",
+    "BvASD": "Beker van Antwerpen \u2013 Seniors Dames",
+    "BvAMU19": "Beker van Antwerpen \u2013 Meisjes U19",
+    "BvAMU17": "Beker van Antwerpen \u2013 Meisjes U17",
+    "BvAMU15": "Beker van Antwerpen \u2013 Meisjes U15",
+    "BvAJU13": "Beker van Antwerpen \u2013 Jongens U13",
+    "BvAMU13": "Beker van Antwerpen \u2013 Meisjes U13",
+    "BvAJU11": "Beker van Antwerpen \u2013 Jongens U11",
+    "BvAMU11": "Beker van Antwerpen \u2013 Meisjes U11",
+    "BVGASHP": "Beker gewest Antwerpen \u2013 Heren provinciaal",
+    "BVGASHG": "Beker gewest Antwerpen \u2013 Heren gewestelijk",
+    "BVGASDP": "Beker gewest Antwerpen \u2013 Dames provinciaal",
+    "BVGASDG": "Beker gewest Antwerpen \u2013 Dames gewestelijk",
+    "BVGAMU19": "Beker gewest Antwerpen \u2013 Meisjes U19",
+    "BvGAMU17": "Beker gewest Antwerpen \u2013 Meisjes U17",
+    "BVGAMU15": "Beker gewest Antwerpen \u2013 Meisjes U15",
+    "BVGAJU13": "Beker gewest Antwerpen \u2013 Jongens U13",
+    "BVGAMU13": "Beker gewest Antwerpen \u2013 Meisjes U13",
+    "BVGAJU11": "Beker gewest Antwerpen \u2013 Jongens U11",
+    "BVGAMU11": "Beker gewest Antwerpen \u2013 Meisjes U11"
+  };
+
+  var DAGEN = ["zo", "ma", "di", "wo", "do", "vr", "za"];
+  var MAANDEN = ["jan", "feb", "mrt", "apr", "mei", "jun",
+                 "jul", "aug", "sep", "okt", "nov", "dec"];
+
+  function esc(s) {
+    return String(s == null ? "" : s)
+      .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+  }
+
+  function parseMatch(m) {
+    var p = String(m.t || "").split("/"); // dd/mm/jjjj
+    var d = new Date(+p[2], +p[1] - 1, +p[0]);
+    var tijd = String(m.Aanvangsuur || "").slice(0, 5);
+    var isHome = m.stnr_home === CLUB; // bij onderling duel: thuisrij tonen
+    return {
+      reeks: m.Reeks || "?",
+      date: d,
+      sort: (m.t ? p[2] + p[1] + p[0] : "0") + tijd,
+      tijd: (!tijd || tijd === "00:00") ? "uur volgt" : tijd,
+      thuis: isHome,
+      tegenstander: isHome ? (m.Bezoekers || "").trim() : (m.Thuis || "").trim(),
+      venue: (m.SporthalNaam || "").trim(),
+      uitslag: (m.UitslagHoofd || "").trim(),
+      uitgesteld: m.postponed === "1"
+    };
+  }
+
+  function fmtDatum(d) {
+    return DAGEN[d.getDay()] + " " + d.getDate() + " " +
+           MAANDEN[d.getMonth()] + " " + d.getFullYear();
+  }
+
+  function rowHtml(w, teamtag) {
+    var icon = w.thuis ? "home" : "away";
+    var title = w.thuis ? "Thuiswedstrijd" : "Uitwedstrijd";
+    var extras = "";
+    if (w.superdag) { extras += '<span class="xx-wed-super">\u2605 Super Saturday</span>'; }
+    if (w.uitslag) { extras += '<span class="xx-wed-score">' + esc(w.uitslag) + "</span>"; }
+    if (w.uitgesteld) { extras += '<span class="xx-wed-badge">uitgesteld</span>'; }
+    var opp = esc(w.tegenstander || "Nog te bepalen");
+    var tag = teamtag ? '<span class="xx-wed-teamtag">' + esc(teamtag) + "</span>" : "";
+    var info;
+    if (w.venue) {
+      var maps = "https://www.google.com/maps/search/?api=1&query=" +
+                 encodeURIComponent(w.venue);
+      info = tag +
+        '<details class="xx-wed-venue-toggle"><summary title="Toon sporthal">' +
+        '<svg class="xx-wed-pin-svg" aria-hidden="true"><use href="#xxw-pin"/></svg>' +
+        "<span>" + opp + "</span>" + extras + "</summary>" +
+        '<div class="xx-wed-venue-popup">' +
+        '<span class="xx-wed-venue-address">' + esc(w.venue) + "</span>" +
+        '<a class="xx-wed-venue-maps-link" href="' + esc(maps) +
+        '" target="_blank" rel="noopener">Open in Google Maps</a></div></details>';
+    } else {
+      info = tag + '<span class="xx-wed-opponent--plain">' + opp + "</span>" + extras +
+             '<span class="xx-wed-venue-note">Locatie volgt</span>';
+    }
+    return '<div class="xx-wed-row">' +
+      '<span class="xx-wed-icon xx-wed-icon--' + icon + '" title="' + title + '">' +
+      '<svg class="xx-wed-icon-svg" aria-hidden="true"><use href="#xxw-' + icon + '"/></svg></span>' +
+      '<span class="xx-wed-datetime"><span class="xx-wed-date">' + fmtDatum(w.date) +
+      '</span><span class="xx-wed-time">' + esc(w.tijd) + "</span></span>" +
+      '<span class="xx-wed-info">' + info + "</span></div>";
+  }
+
+  function teamBlock(name, label, inner, open) {
+    return '<details class="xx-wed-team"' + (open ? " open" : "") + "><summary>" +
+      '<span class="xx-wed-team-name">' + esc(name) + "</span>" +
+      '<span class="xx-wed-count">' + esc(label) + "</span>" +
+      '<svg class="xx-wed-chevron" aria-hidden="true"><use href="#xxw-chev"/></svg>' +
+      '</summary><div class="xx-wed-list">' + inner + "</div></details>";
+  }
+
+  var ALL = [];          // alle geparste wedstrijden
+  var VIEW = "ploeg";    // "ploeg" | "weekend"
+  var bySort = function (a, b) { return a.sort < b.sort ? -1 : a.sort > b.sort ? 1 : 0; };
+
+  function nWed(n) { return n + (n === 1 ? " wedstrijd" : " wedstrijden"); }
+
+  function tagFor(w) {
+    return TEAMS[w.reeks] ? TEAMS[w.reeks][0] : (BEKER_NAMES[w.reeks] || w.reeks);
+  }
+
+  // Super Saturday: Heren A en Dames A spelen op dezelfde dag allebei thuis
+  function computeSuper() {
+    var codeFor = function (naam) {
+      for (var c in TEAMS) { if (TEAMS[c][0] === naam) { return c; } }
+      return null;
+    };
+    var hA = codeFor("Heren A"), dA = codeFor("Dames A");
+    var thuisH = {}, thuisD = {};
+    for (var i = 0; i < ALL.length; i++) {
+      var w = ALL[i], dag = w.sort.slice(0, 8);
+      if (w.thuis && w.reeks === hA) { thuisH[dag] = 1; }
+      if (w.thuis && w.reeks === dA) { thuisD[dag] = 1; }
+    }
+    for (var j = 0; j < ALL.length; j++) {
+      var v = ALL[j], d2 = v.sort.slice(0, 8);
+      v.superdag = !!(v.thuis && (v.reeks === hA || v.reeks === dA) &&
+                      thuisH[d2] && thuisD[d2]);
+    }
+  }
+
+  // onderverdeling: senioren/jeugd per geslacht (jeugd herkenbaar aan U-leeftijd)
+  function catFor(naam) {
+    if (/^Jongens/.test(naam)) { return "Jeugd \u2013 jongens"; }
+    if (/^Meisjes/.test(naam)) { return "Jeugd \u2013 meisjes"; }
+    if (/U\d/.test(naam)) { return "Jeugd \u2013 gemengd"; }
+    if (/^Heren/.test(naam)) { return "Senioren \u2013 heren"; }
+    if (/^Dames/.test(naam)) { return "Senioren \u2013 dames"; }
+    return "";
+  }
+
+  function renderCompetitie() {
+    var perTeam = {}, overige = {};
+    for (var i = 0; i < ALL.length; i++) {
+      var w = ALL[i];
+      if (TEAMS[w.reeks]) {
+        (perTeam[w.reeks] = perTeam[w.reeks] || []).push(w);
+      } else if (!BEKER_NAMES[w.reeks]) {
+        (overige[w.reeks] = overige[w.reeks] || []).push(w);
+      }
+    }
+    var codes = Object.keys(perTeam).sort(function (a, b) {
+      return TEAMS[a][2] - TEAMS[b][2];
+    });
+    var out = "", prevCat = "";
+    for (var c = 0; c < codes.length; c++) {
+      var meta = TEAMS[codes[c]], rows = perTeam[codes[c]].sort(bySort), html = "";
+      var cat = catFor(meta[0]);
+      if (cat && cat !== prevCat) {
+        out += '<div class="xx-wed-cat">' + esc(cat) + "</div>";
+        prevCat = cat;
+      }
+      for (var r = 0; r < rows.length; r++) { html += rowHtml(rows[r], null); }
+      out += teamBlock(meta[0], meta[1] + " \u00b7 " + nWed(rows.length), html);
+    }
+    // vangnet: nieuwe/onbekende competitiecodes verdwijnen niet stilletjes
+    var ovCodes = Object.keys(overige).sort();
+    if (ovCodes.length) {
+      out += '<div class="xx-wed-cat">Overige reeksen</div>';
+      for (var o = 0; o < ovCodes.length; o++) {
+        var orows = overige[ovCodes[o]].sort(bySort), ohtml = "";
+        for (var q = 0; q < orows.length; q++) { ohtml += rowHtml(orows[q], null); }
+        out += teamBlock(ovCodes[o], nWed(orows.length), ohtml);
+      }
+    }
+    return out;
+  }
+
+  function renderBeker() {
+    var beker = {};
+    for (var i = 0; i < ALL.length; i++) {
+      var w = ALL[i];
+      if (BEKER_NAMES[w.reeks]) {
+        (beker[w.reeks] = beker[w.reeks] || []).push(w);
+      }
+    }
+    var ORDER = Object.keys(BEKER_NAMES);
+    var bkCodes = Object.keys(beker).sort(function (a, b) {
+      return ORDER.indexOf(a) - ORDER.indexOf(b);
+    });
+    var out = "";
+    for (var k = 0; k < bkCodes.length; k++) {
+      out += '<div class="xx-wed-subhead">' + esc(BEKER_NAMES[bkCodes[k]]) + "</div>";
+      var brows = beker[bkCodes[k]].sort(bySort);
+      for (var j = 0; j < brows.length; j++) { out += rowHtml(brows[j], null); }
+    }
+    return out ? teamBlock("Beker", nWed(ALL.filter(function (w) {
+      return BEKER_NAMES[w.reeks];
+    }).length), out, true) : "";
+  }
+
+  // week loopt van maandag t/m zondag
+  function weekStart(d) {
+    var x = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+    x.setDate(x.getDate() - ((x.getDay() + 6) % 7));
+    return x;
+  }
+  function weekKey(d) {
+    var ws = weekStart(d);
+    return ws.getFullYear() * 10000 + (ws.getMonth() + 1) * 100 + ws.getDate();
+  }
+  function weekLabel(key) {
+    var ws = new Date(Math.floor(key / 10000), Math.floor(key / 100) % 100 - 1, key % 100);
+    var we = new Date(ws); we.setDate(ws.getDate() + 6);
+    var links = "ma " + ws.getDate() + " " + MAANDEN[ws.getMonth()] +
+                (ws.getFullYear() !== we.getFullYear() ? " " + ws.getFullYear() : "");
+    return links + " \u2013 zo " + we.getDate() + " " + MAANDEN[we.getMonth()] +
+           " " + we.getFullYear();
+  }
+
+  function renderWeekend() {
+    var perWeek = {};
+    for (var i = 0; i < ALL.length; i++) {
+      var k = weekKey(ALL[i].date);
+      (perWeek[k] = perWeek[k] || []).push(ALL[i]);
+    }
+    var keys = Object.keys(perWeek).map(Number).sort(function (a, b) { return a - b; });
+    var nu = weekKey(new Date());
+    var openKey = null;
+    for (var c = 0; c < keys.length; c++) {
+      if (keys[c] >= nu) { openKey = keys[c]; break; }
+    }
+    var out = "";
+    for (var c2 = 0; c2 < keys.length; c2++) {
+      var rows = perWeek[keys[c2]].sort(bySort), html = "", hasSuper = false;
+      for (var r = 0; r < rows.length; r++) {
+        if (rows[r].superdag) { hasSuper = true; }
+        html += rowHtml(rows[r], tagFor(rows[r]));
+      }
+      var label = nWed(rows.length) +
+                  (hasSuper ? " \u00b7 \u2605 Super Saturday" : "");
+      out += teamBlock(weekLabel(keys[c2]), label, html, keys[c2] === openKey);
+    }
+    return out;
+  }
+
+  function renderView() {
+    var content;
+    if (MODE === "competitie") { content = renderCompetitie(); }
+    else if (MODE === "beker") { content = renderBeker(); }
+    else { content = renderWeekend(); }
+    if (!content) { content = '<div class="xx-wed-msg">Geen wedstrijden gevonden.</div>'; }
+    var live = '<div class="xx-wed-live"><span class="xx-wed-livedot"></span>' +
+      'Live bijgewerkt <small>\u00b7 rechtstreeks van Volley Vlaanderen</small></div>';
+    document.getElementById("xxw-inner").innerHTML = live + content;
+  }
+
+  function fail() {
+    document.getElementById("xxw-inner").innerHTML =
+      '<div class="xx-wed-msg">De kalender kon niet geladen worden. ' +
+      'Bekijk de wedstrijden op <a href="' + esc(FALLBACK_URL) +
+      '" target="_blank" rel="noopener">volleyscores.be</a>.</div>';
+  }
+
+  fetch(FEED)
+    .then(function (r) { if (!r.ok) { throw new Error(r.status); } return r.json(); })
+    .then(function (data) {
+      if (!Array.isArray(data)) { throw new Error("geen lijst"); }
+      ALL = data.map(parseMatch);
+      computeSuper();
+      renderView();
+    })
+    .catch(fail);
+})();
