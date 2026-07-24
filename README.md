@@ -6,9 +6,9 @@ Live wedstrijdkalender van volleybalclub **Hellvoc Hemiksem-Schelle** (stamnumme
 
 | Pagina | URL | Inhoud |
 | --- | --- | --- |
-| **Competitie** | https://abzgchristophe.github.io/hellvoc_wedstrijdkalender/ | Per ploeg, gegroepeerd in Senioren (heren/dames) en Jeugd (jongens/meisjes/gemengd) |
-| **Beker** | https://abzgchristophe.github.io/hellvoc_wedstrijdkalender/beker.html | Alle bekerwedstrijden, per bekerreeks |
-| **Volledige kalender** | https://abzgchristophe.github.io/hellvoc_wedstrijdkalender/kalender.html | Alles samen per week (ma t/m zo); de huidige week klapt automatisch open |
+| **Competitie** | https://abzgchristophe.github.io/hellvoc_wedsrijdkalender/ | Per ploeg, gegroepeerd in Senioren (heren/dames) en Jeugd (jongens/meisjes/gemengd) |
+| **Beker** | https://abzgchristophe.github.io/hellvoc_wedsrijdkalender/beker.html | Alle bekerwedstrijden, per bekerreeks |
+| **Volledige kalender** | https://abzgchristophe.github.io/hellvoc_wedsrijdkalender/kalender.html | Alles samen per week (ma t/m zo); de huidige week klapt automatisch open |
 
 Alle pagina's tonen bovenaan de live-indicator, en per wedstrijd: thuis/uit-icoon, datum en uur, tegenstander (klik = sporthal + Google Maps-link), uitslag na afloop en een rood label bij uitstel. **Super Saturdays** (Heren A en Dames A samen thuis) krijgen een gouden ★-badge en worden in de weekweergave ook in de weektitel vermeld.
 
