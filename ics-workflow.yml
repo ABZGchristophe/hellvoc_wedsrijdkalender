@@ -1,0 +1,30 @@
+name: Agenda-bestanden verversen
+
+on:
+  schedule:
+    - cron: "20 4 * * *"   # dagelijks om 04:20 UTC (~06:20 Belgische tijd)
+  workflow_dispatch: {}     # ook handmatig te starten via de Actions-tab
+  push:
+    paths:
+      - "scripts/make_ics.py"
+
+permissions:
+  contents: write
+
+jobs:
+  ics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Genereer ics-bestanden
+        run: python3 scripts/make_ics.py
+      - name: Commit wijzigingen
+        run: |
+          git config user.name "hellvoc-bot"
+          git config user.email "actions@github.com"
+          git add ics/
+          git diff --cached --quiet && echo "Geen wijzigingen" || \
+            (git commit -m "Agenda-bestanden bijgewerkt ($(date -u +%F))" && git push)
