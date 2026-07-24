@@ -1,0 +1,152 @@
+<div class="xx-wedmenu-root">
+  <style>
+    .xx-wedmenu-root, .xx-wedmenu-root * { box-sizing: border-box; }
+    .xx-wedmenu-root {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      width: 100vw;
+      position: relative;
+      left: 50%;
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      background: #000;
+      padding: 16px 12px 32px;
+    }
+    .xx-wedmenu-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      min-height: 56px;
+      padding: 12px 16px;
+      background: #0d1b2a;
+      border-radius: 12px;
+      margin-bottom: 12px;
+      text-decoration: none;
+      color: #fff;
+    }
+    .xx-wedmenu-icon { width: 26px; height: 26px; flex-shrink: 0; color: #f2b705; display: flex; }
+    .xx-wedmenu-icon svg { width: 100%; height: 100%; }
+    .xx-wedmenu-label { flex: 1; font-size: clamp(15px, 3.8vw, 17px); font-weight: 700; }
+    .xx-wedmenu-chevron { width: 18px; height: 18px; flex-shrink: 0; }
+    .xx-wedmenu-text { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+    .xx-wedmenu-sub {
+      font-size: clamp(12px, 3vw, 13px);
+      font-weight: 400;
+      color: #9fb3c8;
+      line-height: 1.35;
+    }
+    .xx-wedmenu-head {
+      color: #9aa4b2;
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin: 22px 4px 10px;
+    }
+    .xx-wedmenu-row--featured {
+      border: 1px solid #f2b705;
+      box-shadow: 0 0 0 1px rgba(242, 183, 5, 0.25);
+    }
+    .xx-wedmenu-perks {
+      list-style: none;
+      margin: 6px 0 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+    .xx-wedmenu-perks li {
+      font-size: clamp(12px, 3vw, 13px);
+      font-weight: 400;
+      color: #cfd8dc;
+      line-height: 1.35;
+      display: flex;
+      gap: 7px;
+    }
+    .xx-wedmenu-perks li::before {
+      content: "\2713";
+      color: #f2b705;
+      font-weight: 800;
+      flex-shrink: 0;
+    }
+    .xx-wedmenu-row--soon {
+      background: #0a0f16;
+      opacity: 0.55;
+      cursor: default;
+    }
+    .xx-wedmenu-row--soon .xx-wedmenu-icon { color: #6b7280; }
+    .xx-wedmenu-soon-badge {
+      flex-shrink: 0;
+      font-size: 10px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #9aa4b2;
+      background: #1a2028;
+      padding: 4px 8px;
+      border-radius: 999px;
+    }
+  </style>
+
+  <a class="xx-wedmenu-row" href="/#/pages/content/8">
+    <span class="xx-wedmenu-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 .01 0Zm0 2c1.1 0 2.15.2 3.12.57-1 1.9-2.6 3.3-4.6 4.03-.6-1.9-.6-4.2.5-4.5.32-.06.65-.1.98-.1Zm-4.9 1.9c.9 2.4 2.8 4.3 5.2 5.2-.3 1-.3 2 0 3-2.4.9-4.3 2.8-5.2 5.2A8 8 0 0 1 5 12c0-2.6 1-5 2.6-6.8l-.5-.3Zm9.8 0c1.7 1.8 2.6 4.2 2.6 6.9 0 2.7-1 5.1-2.7 6.9-.9-2.4-2.8-4.3-5.2-5.2.3-1 .3-2 0-3 2.4-.9 4.3-2.8 5.2-5.2l.1-.4Zm-9 9.6c.6 1.9 2.1 3.3 4 4-1.9.6-4.1.5-4.6-.5-.4-.9 0-2.3.6-3.5Zm8.2 0c.6 1.2 1 2.6.6 3.5-.5 1-2.7 1.1-4.6.5 1.9-.7 3.4-2.1 4-4Z" fill="currentColor"></path></svg></span>
+    <span class="xx-wedmenu-label">Competitie</span>
+    <svg class="xx-wedmenu-chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+  </a>
+  <a class="xx-wedmenu-row" href="/#/pages/content/9">
+    <span class="xx-wedmenu-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 .01 0Zm0 2c1.1 0 2.15.2 3.12.57-1 1.9-2.6 3.3-4.6 4.03-.6-1.9-.6-4.2.5-4.5.32-.06.65-.1.98-.1Zm-4.9 1.9c.9 2.4 2.8 4.3 5.2 5.2-.3 1-.3 2 0 3-2.4.9-4.3 2.8-5.2 5.2A8 8 0 0 1 5 12c0-2.6 1-5 2.6-6.8l-.5-.3Zm9.8 0c1.7 1.8 2.6 4.2 2.6 6.9 0 2.7-1 5.1-2.7 6.9-.9-2.4-2.8-4.3-5.2-5.2.3-1 .3-2 0-3 2.4-.9 4.3-2.8 5.2-5.2l.1-.4Zm-9 9.6c.6 1.9 2.1 3.3 4 4-1.9.6-4.1.5-4.6-.5-.4-.9 0-2.3.6-3.5Zm8.2 0c.6 1.2 1 2.6.6 3.5-.5 1-2.7 1.1-4.6.5 1.9-.7 3.4-2.1 4-4Z" fill="currentColor"></path></svg></span>
+    <span class="xx-wedmenu-label">Beker</span>
+    <svg class="xx-wedmenu-chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+  </a>
+  <a class="xx-wedmenu-row" href="/#/pages/content/3">
+    <span class="xx-wedmenu-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 .01 0Zm0 2c1.1 0 2.15.2 3.12.57-1 1.9-2.6 3.3-4.6 4.03-.6-1.9-.6-4.2.5-4.5.32-.06.65-.1.98-.1Zm-4.9 1.9c.9 2.4 2.8 4.3 5.2 5.2-.3 1-.3 2 0 3-2.4.9-4.3 2.8-5.2 5.2A8 8 0 0 1 5 12c0-2.6 1-5 2.6-6.8l-.5-.3Zm9.8 0c1.7 1.8 2.6 4.2 2.6 6.9 0 2.7-1 5.1-2.7 6.9-.9-2.4-2.8-4.3-5.2-5.2.3-1 .3-2 0-3 2.4-.9 4.3-2.8 5.2-5.2l.1-.4Zm-9 9.6c.6 1.9 2.1 3.3 4 4-1.9.6-4.1.5-4.6-.5-.4-.9 0-2.3.6-3.5Zm8.2 0c.6 1.2 1 2.6.6 3.5-.5 1-2.7 1.1-4.6.5 1.9-.7 3.4-2.1 4-4Z" fill="currentColor"></path></svg></span>
+    <span class="xx-wedmenu-label">Volledige kalender</span>
+    <svg class="xx-wedmenu-chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+  </a>
+
+  <div class="xx-wedmenu-head">Doe mee</div>
+
+  <a class="xx-wedmenu-row xx-wedmenu-row--featured" href="https://app.twizzit.com/go/wordt-7e" target="_blank" rel="noopener">
+    <span class="xx-wedmenu-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-4.6-9.3-8.6C.9 9 2.7 5.5 6 5.5c2 0 3.4 1.1 4 2.3.6-1.2 2-2.3 4-2.3 3.3 0 5.1 3.5 3.3 6.9C19 16.4 12 21 12 21Z" fill="currentColor"></path></svg></span>
+    <span class="xx-wedmenu-text">
+      <span class="xx-wedmenu-label">Word 7e Hellvocer</span>
+      <span class="xx-wedmenu-sub">Maak deel uit van de unieke supportersclub van Hellvoc &middot; lidmaatschap per seizoen</span>
+      <ul class="xx-wedmenu-perks">
+        <li>Unieke polo (personalisatie mogelijk)</li>
+        <li>Gratis toegang tot alle Hellvoc-wedstrijden</li>
+        <li>10% korting in caf&eacute; Touch&eacute; &eacute;n op alle clubevents</li>
+      </ul>
+    </span>
+    <svg class="xx-wedmenu-chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+  </a>
+
+  <a class="xx-wedmenu-row" href="https://app.twizzit.com/go/Hellvocnieuweleden" target="_blank" rel="noopener">
+    <span class="xx-wedmenu-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="7.5" r="3.2"></circle><path d="M3 20c0-3.1 2.7-5.2 6-5.2s6 2.1 6 5.2"></path><path d="M18.5 7.5v6M15.5 10.5h6"></path></g></svg></span>
+    <span class="xx-wedmenu-text">
+      <span class="xx-wedmenu-label">Word nieuw lid</span>
+      <span class="xx-wedmenu-sub">Wil je ook volleyballen bij ons? We contacteren je graag!</span>
+    </span>
+    <svg class="xx-wedmenu-chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+  </a>
+
+  <a class="xx-wedmenu-row" href="https://app.twizzit.com/go/hellvoc-vrijwilligersformulier" target="_blank" rel="noopener">
+    <span class="xx-wedmenu-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="8.5" cy="8" r="3"></circle><path d="M2.8 20c0-3 2.5-5 5.7-5 1.5 0 2.9.5 3.9 1.2"></path><circle cx="16.5" cy="9.5" r="2.4"></circle><path d="M14.6 15.4c.6-.2 1.2-.3 1.9-.3 2.7 0 4.7 1.8 4.7 4.4"></path></g></svg></span>
+    <span class="xx-wedmenu-text">
+      <span class="xx-wedmenu-label">Word vrijwilliger</span>
+      <span class="xx-wedmenu-sub">Bekijk waar we nog helpende handen kunnen gebruiken</span>
+    </span>
+    <svg class="xx-wedmenu-chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+  </a>
+
+  <div class="xx-wedmenu-head">Clubshop</div>
+
+  <a class="xx-wedmenu-row" href="https://team.jako.com/be-nl/team/hellvoc/" target="_blank" rel="noopener">
+    <span class="xx-wedmenu-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8.2 3.6 3.8 6.2l1.7 3.9 2.2-1V21h8.6V9.1l2.2 1 1.7-3.9-4.4-2.6a5.4 5.4 0 0 1-7.6 0Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+    <span class="xx-wedmenu-text">
+      <span class="xx-wedmenu-label">Kledij webshop</span>
+      <span class="xx-wedmenu-sub">Bestel je Hellvoc-clubkledij in de offici&euml;le JAKO-teamshop</span>
+    </span>
+    <svg class="xx-wedmenu-chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+  </a>
+
+</div>

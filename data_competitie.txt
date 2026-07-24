@@ -1,0 +1,410 @@
+@@Nationale 1 Heren
+Za 12/09/202620:30NAT1H-0009Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVT Marke-Webis Wevelgem A
+Za 19/09/202615:00NAT1H-0058Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle ATopsport School Vilvoorde A
+Za 26/09/202620:30NAT1H-0065Baulers, Salle OmnisportsBW Nivelles Volley AHellvoc Hemiksem-Schelle A
+Za 03/10/202620:30NAT1H-0019Zoersel, St Antonius Global Catering ArenaKwadrO Amigos Sint-Antonius Zoersel AHellvoc Hemiksem-Schelle A
+Za 10/10/202620:30NAT1H-0003Vosselaar, Sporthal DiepvennekeVolley Noorderkempen AHellvoc Hemiksem-Schelle A
+Za 17/10/202620:30NAT1H-0027Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVC Greenyard Maaseik B
+Zo 01/11/202615:30NAT1H-0031Oostakker, Edugo ArenaCaruur Volley Gent BHellvoc Hemiksem-Schelle A
+Za 07/11/202617:30NAT1H-0042Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AMendo Booischot A
+Za 14/11/202620:30NAT1H-0052Puurs, Sporthal VrijhalsTeamFisk Volley Klein-Brabant Puurs-Sint-Amands AHellvoc Hemiksem-Schelle A
+Za 28/11/202617:30NAT1H-0015Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVC Packo Zedelgem A
+Za 12/12/202620:00NAT1H-0070Haacht, Sportcomplex Den DijkVC Feniks Haacht AHellvoc Hemiksem-Schelle A
+Za 19/12/202617:30NAT1H-0075Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVamos Stekene - Sint-Gillis-Waas A
+Zo 10/01/202718:30NAT1H-0087Kortrijk, Sporthal De Lange MunteVT Marke-Webis Wevelgem AHellvoc Hemiksem-Schelle A
+Za 16/01/202720:30NAT1H-0081Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVolley Noorderkempen A
+Za 23/01/202720:00NAT1H-0093Zedelgem, De Groene MeersenVC Packo Zedelgem AHellvoc Hemiksem-Schelle A
+Za 30/01/202717:30NAT1H-0097Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AKwadrO Amigos Sint-Antonius Zoersel A
+Za 06/02/202716:30NAT1H-0105Maaseik, Steengoed ArenaVC Greenyard Maaseik BHellvoc Hemiksem-Schelle A
+Za 13/02/202717:30NAT1H-0109Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle ACaruur Volley Gent B
+Za 20/02/202720:00NAT1H-0120Booischot, Sporthal De LichtenMendo Booischot AHellvoc Hemiksem-Schelle A
+Zo 07/03/202718:00NAT1H-0130Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle ATeamFisk Volley Klein-Brabant Puurs-Sint-Amands A
+Zo 14/03/202718:00NAT1H-0136Vilvoorde, Euro Volley CenterTopsport School Vilvoorde AHellvoc Hemiksem-Schelle A
+Za 20/03/202717:30NAT1H-0143Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle ABW Nivelles Volley A
+Za 17/04/202720:30NAT1H-0148Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVC Feniks Haacht A
+Za 24/04/202718:00NAT1H-0153Stekene, Sporthal De SportstekVamos Stekene - Sint-Gillis-Waas AHellvoc Hemiksem-Schelle A
+@@Nationale 3 Heren C
+Za 12/09/202620:30NAT3H-C-0003Zoersel, SportcomplexKVC Zoersel BHellvoc Hemiksem-Schelle B
+Za 19/09/202616:00NAT3H-C-0044Achel, Sportcentrum De KoekoekTectum Achel BHellvoc Hemiksem-Schelle B
+Za 26/09/202618:30NAT3H-C-0042Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BB.V.C. Balen A
+Za 03/10/202617:30NAT3H-C-0021Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BVamos Stekene - Sint-Gillis-Waas B
+Za 17/10/202620:00NAT3H-C-0029Pelt, Sportcentrum De BemvoortVolleybalclub Pelt AHellvoc Hemiksem-Schelle B
+Za 24/10/202620:30NAT3H-C-0009Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BGolazo Averbode A
+Za 07/11/202617:00NAT3H-C-0013Vosselaar, Sporthal DiepvennekeVolley Noorderkempen BHellvoc Hemiksem-Schelle B
+Za 14/11/202613:30NAT3H-C-0033Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BGimm-E Waasland Kruibeke A
+Za 21/11/202620:30NAT3H-C-0052Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BSAB Diving Brabo Antwerp VT B
+Za 28/11/202620:30NAT3H-C-0056Arendonk, Sporthal OkidoArvoc AHellvoc Hemiksem-Schelle B
+Za 12/12/202618:30NAT3H-C-0069Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKVC Zoersel B
+Za 09/01/202720:30NAT3H-C-0076Averbode, Gemeentelijke SporthalGolazo Averbode AHellvoc Hemiksem-Schelle B
+Za 16/01/202720:00NAT3H-C-0130Zoersel, St Antonius Global Catering ArenaKwadrO Amigos Sint-Antonius Zoersel BHellvoc Hemiksem-Schelle B
+Za 23/01/202720:30NAT3H-C-0062Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKwadrO Amigos Sint-Antonius Zoersel B
+Za 30/01/202720:30NAT3H-C-0086Stekene, Sporthal De SportstekVamos Stekene - Sint-Gillis-Waas BHellvoc Hemiksem-Schelle B
+Za 06/02/202718:30NAT3H-C-0093Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BVolleybalclub Pelt A
+Za 20/02/202720:30NAT3H-C-0102Bazel, Sporthal De DulpopGimm-E Waasland Kruibeke AHellvoc Hemiksem-Schelle B
+Za 06/03/202721:00NAT3H-C-0108Balen, Sportcomplex BleukensB.V.C. Balen AHellvoc Hemiksem-Schelle B
+Za 13/03/202718:30NAT3H-C-0114Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BTectum Achel B
+Zo 21/03/202718:00NAT3H-C-0118Deurne, Sporthal ArenaSAB Diving Brabo Antwerp VT BHellvoc Hemiksem-Schelle B
+Za 17/04/202717:30NAT3H-C-0122Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BArvoc A
+Za 24/04/202718:30NAT3H-C-0081Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BVolley Noorderkempen B
+@@Nationale 1 Dames
+Za 12/09/202617:30NAT1D-0002Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AKoninklijke Msiks Blaasveld VC A
+Za 19/09/202620:30NAT1D-0008Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AGrinta Valentino Lint A
+Za 03/10/202620:30NAT1D-0020Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle ADarta Bevo Roeselare B
+Za 10/10/202619:30NAT1D-0018Limal, Complexe SportifLimal Ottignies Smashing AHellvoc Hemiksem-Schelle A
+Za 17/10/202620:30NAT1D-0028Haasrode, SportcomplexVolley Haasrode Leuven AHellvoc Hemiksem-Schelle A
+Za 24/10/202619:30NAT1D-0032Zandhoven, Sporthal Het VeldVBC Zandhoven AHellvoc Hemiksem-Schelle A
+Za 07/11/202620:30NAT1D-0040Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AWevoc Wellen A
+Za 14/11/202620:30NAT1D-0050Zoersel, SportcomplexKVC Zoersel AHellvoc Hemiksem-Schelle A
+Za 21/11/202620:30NAT1D-0048Koersel, Sporthal StalvocStalvoc Allimex Beverlo AHellvoc Hemiksem-Schelle A
+Za 28/11/202620:30NAT1D-0058Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AWaremme Volley A
+Zo 06/12/202618:00NAT1D-0062Vilvoorde, Euro Volley CenterTopsport School Vilvoorde AHellvoc Hemiksem-Schelle A
+Za 12/12/202620:00NAT1D-0106Wellen, Sporthal De BlokenWevoc Wellen AHellvoc Hemiksem-Schelle A
+Za 09/01/202720:30NAT1D-0099Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVBC Zandhoven A
+Za 16/01/202717:30NAT1D-0112Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AStalvoc Allimex Beverlo A
+Za 30/01/202720:30NAT1D-0116Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AKVC Zoersel A
+Zo 07/02/202714:00NAT1D-0124Waremme Province Ballons Arena AnnexeWaremme Volley AHellvoc Hemiksem-Schelle A
+Za 20/02/202719:00NAT1D-0130Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle ATopsport School Vilvoorde A
+Za 27/02/202720:30NAT1D-0092Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVolley Haasrode Leuven A
+Za 13/03/202720:30NAT1D-0089Roeselare, Darta ArenaDarta Bevo Roeselare BHellvoc Hemiksem-Schelle A
+Za 20/03/202720:30NAT1D-0080Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle ALimal Ottignies Smashing A
+Za 17/04/202720:30NAT1D-0073Lint, Centrum De Witte Merel zaal AGrinta Valentino Lint AHellvoc Hemiksem-Schelle A
+Za 24/04/202717:30NAT1D-0068Tisselt, Sporthal Ter MolenKoninklijke Msiks Blaasveld VC AHellvoc Hemiksem-Schelle A
+@@Heren Promo 2
+Za 12/09/202614:30AHP2-0028Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CVC Heist Herenthout A
+Zo 20/09/202615:00AHP2-0043Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CNoust Spinley Dessel A
+Zo 27/09/202618:00AHP2-0037Mortsel, Sporthal Den DrabMortsel Volley Antwerpen BHellvoc Hemiksem-Schelle C
+Za 03/10/202616:30AHP2-0004Zoersel, Sportschuur VC ZoerselKVC Zoersel CHellvoc Hemiksem-Schelle C
+Za 10/10/202614:30AHP2-0063Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CTeamFisk Volley Klein-Brabant Puurs-Sint-Amands B
+Za 17/10/202614:30AHP2-0016Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CMendo Booischot D
+Za 24/10/202616:00AHP2-0053Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CVC SMASH LIER
+Zo 15/11/202613:30AHP2-0057Deurne, ArenahalSAB Diving Brabo Antwerp VT CHellvoc Hemiksem-Schelle C
+Za 21/11/202620:00AHP2-0009Mechelen, Sporthal De PlaonMavoc-Mechelen AHellvoc Hemiksem-Schelle C
+Zo 29/11/202615:00AHP2-0023Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CVoc Schriek A
+Za 05/12/202620:00AHP2-0031Geel, Sporthal AxionVC Geel BHellvoc Hemiksem-Schelle C
+Za 12/12/202620:30AHP2-0119Lier, Stedelijke SporthalVC SMASH LIERHellvoc Hemiksem-Schelle C
+Za 09/01/202714:30AHP2-0123Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CSAB Diving Brabo Antwerp VT C
+Za 16/01/202713:00AHP2-0084Booischot, Sporthal De LichtenMendo Booischot DHellvoc Hemiksem-Schelle C
+Za 30/01/202714:30AHP2-0070Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CKVC Zoersel C
+Za 06/02/202720:00AHP2-0088Heist-op-den-Berg, Sporthal De SporthalVoc Schriek AHellvoc Hemiksem-Schelle C
+Za 20/02/202716:00AHP2-0103Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CMortsel Volley Antwerpen B
+Zo 07/03/202715:00AHP2-0100Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CVC Geel B
+Do 11/03/202720:45AHP2-0092Herenthout, 't KapellekeVC Heist Herenthout AHellvoc Hemiksem-Schelle C
+Za 20/03/202716:30AHP2-0131Breendonk, Gem.Sporthal VrijhalsTeamFisk Volley Klein-Brabant Puurs-Sint-Amands BHellvoc Hemiksem-Schelle C
+Za 17/04/202713:00AHP2-0076Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CMavoc-Mechelen A
+Za 24/04/202720:30AHP2-0113Dessel, Sportpark BraselNoust Spinley Dessel AHellvoc Hemiksem-Schelle C
+@@Dames promo 2 A
+Za 12/09/202613:00ADP2-A-0049Mechelen, Sporthal De PlaonMavoc-Mechelen BHellvoc Hemiksem-Schelle B
+Za 19/09/202614:30ADP2-A-0013Zandhoven, Sporthal Het VeldVBC Zandhoven CHellvoc Hemiksem-Schelle B
+Za 26/09/202619:00ADP2-A-0055Berlaar, Sporthal 't StapveldVolleybal Club Berlaar AHellvoc Hemiksem-Schelle B
+Zo 04/10/202615:00ADP2-A-0045Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKwadrO Amigos Sint-Antonius Zoersel C
+Za 10/10/202620:30ADP2-A-0037Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BFixit Volley Kalmthout B
+Zo 18/10/202618:00ADP2-A-0025Zoersel, St Antonius Global Catering ArenaKwadrO Amigos Sint-Antonius Zoersel DHellvoc Hemiksem-Schelle B
+Zo 25/10/202616:00ADP2-A-0036Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BVolmar Ekeren A
+Za 14/11/202616:00ADP2-A-0008Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BWoka Wommelgem A
+Za 21/11/202616:00ADP2-A-0001Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BWOVo A
+Za 28/11/202618:30ADP2-A-0065Loenhout, SportschuurW.E.K. Loenhout AHellvoc Hemiksem-Schelle B
+Za 05/12/202620:30ADP2-A-0022Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BWavoc Waverse A
+Zo 13/12/202614:00ADP2-A-0121Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BVolleybal Club Berlaar A
+Za 09/01/202717:00ADP2-A-0109Zoersel, St Antonius Global Catering ArenaKwadrO Amigos Sint-Antonius Zoersel CHellvoc Hemiksem-Schelle B
+Za 16/01/202720:00ADP2-A-0067Westmalle, BerckhovenWOVo AHellvoc Hemiksem-Schelle B
+Za 30/01/202712:30ADP2-A-0103Kalmthout, Gem. Sporthal AchterbroekFixit Volley Kalmthout BHellvoc Hemiksem-Schelle B
+Za 06/02/202720:30ADP2-A-0115Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BMavoc-Mechelen B
+Za 20/02/202720:30ADP2-A-0085O.L.Vr.Waver Sporthal Bruultjeshoek (zaal -B-)Wavoc Waverse AHellvoc Hemiksem-Schelle B
+Za 06/03/202718:30ADP2-A-0097Ekeren, Kon AtheneumVolmar Ekeren AHellvoc Hemiksem-Schelle B
+Za 13/03/202720:30ADP2-A-0081Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BVBC Zandhoven C
+Za 20/03/202714:00ADP2-A-0095Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKwadrO Amigos Sint-Antonius Zoersel D
+Za 17/04/202720:00ADP2-A-0073Wommelgem, Sportcentrum BrielekeWoka Wommelgem AHellvoc Hemiksem-Schelle B
+Za 24/04/202720:30ADP2-A-0127Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BW.E.K. Loenhout A
+@@Dames promo 3 B
+Zo 13/09/202615:00ADP3-B-0040Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CV O L A K Vorselaar A
+Zo 20/09/202613:00ADP3-B-0002Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CBravoc Ranst A
+Za 26/09/202620:00ADP3-B-0018Bouwel, Sporthal De MolenBovoc Bouwel BHellvoc Hemiksem-Schelle C
+Za 03/10/202613:00ADP3-B-0048Lint, Ontmoetingscentrum De Witte MerelGrinta Valentino Lint CHellvoc Hemiksem-Schelle C
+Za 10/10/202618:30ADP3-B-0058Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CVC SMASH LIER A
+Za 17/10/202617:30ADP3-B-0028Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CMendo Booischot C
+Za 24/10/202619:00ADP3-B-0032Tisselt, Ter MolenKoninklijke Msiks Blaasveld VC BHellvoc Hemiksem-Schelle C
+Zo 15/11/202618:00ADP3-B-0062Nijlen, Sporthal 't ZandFH Nijlen BHellvoc Hemiksem-Schelle C
+Za 21/11/202620:30ADP3-B-0050Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CTeamFisk Volley Klein-Brabant Puurs-Sint-Amands A
+Za 28/11/202614:00ADP3-B-0008Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle COsta Berchem A
+Za 05/12/202620:00ADP3-B-0020Zoersel, St Antonius Global Catering ArenaKwadrO Amigos Sint-Antonius Zoersel EHellvoc Hemiksem-Schelle C
+Za 12/12/202618:00ADP3-B-0106Vorselaar, Sporthal De DreefV O L A K Vorselaar AHellvoc Hemiksem-Schelle C
+Za 09/01/202717:00ADP3-B-0099Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CKoninklijke Msiks Blaasveld VC B
+Za 16/01/202720:30ADP3-B-0073Berchem, Sporthal 't Rooi 2Osta Berchem AHellvoc Hemiksem-Schelle C
+Za 06/02/202718:30ADP3-B-0124Lier, Stedelijke SporthalVC SMASH LIER AHellvoc Hemiksem-Schelle C
+Zo 14/02/202713:00ADP3-B-0112Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CGrinta Valentino Lint C
+Za 20/02/202714:00ADP3-B-0080Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CBovoc Bouwel B
+Zo 07/03/202713:00ADP3-B-0130Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CFH Nijlen B
+Za 13/03/202716:30ADP3-B-0116Breendonk, Gem.Sporthal VrijhalsTeamFisk Volley Klein-Brabant Puurs-Sint-Amands AHellvoc Hemiksem-Schelle C
+Zo 21/03/202715:00ADP3-B-0089Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle CKwadrO Amigos Sint-Antonius Zoersel E
+Zo 18/04/202717:30ADP3-B-0092Booischot, Sporthal De LichtenMendo Booischot CHellvoc Hemiksem-Schelle C
+Za 24/04/202720:00ADP3-B-0068Broechem Sporthal Het Loo (zaal B)Bravoc Ranst AHellvoc Hemiksem-Schelle C
+@@Jongens U17 Niveau 2 B
+Za 12/09/202615:30AJU17N2R1-B-0030O.L.Vr.Waver, Sporthal BruultjeshoekWavoc WaverseHellvoc Hemiksem-Schelle (+)
+Za 26/09/202612:00AJU17N2R1-B-0038Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle (+)Mavoc-Mechelen (+)
+Za 10/10/202612:00AJU17N2R1-B-0025Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle (+)Sveka Schoten A (+)
+Za 17/10/202614:00AJU17N2R1-B-0009Wijnegem, SportcentrumGeel Zwart Wijnegem BHellvoc Hemiksem-Schelle (+)
+Za 24/10/202612:00AJU17N2R1-B-0045Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle (+)Fixit Volley Kalmthout (+)
+Za 14/11/202618:00AJU17N2R1-B-0017Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle (+)Woka Wommelgem
+Za 21/11/202612:00AJU17N2R1-B-0033Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle (+)KwadrO Amigos Sint-Antonius Zoersel B
+Za 28/11/202612:00AJU17N2R1-B-0006Tisselt, Ter MolenKoninklijke Msiks Blaasveld VC (+)Hellvoc Hemiksem-Schelle (+)
+Za 05/12/202612:00AJU17N2R1-B-0001Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle (+)TeamFisk Volley Klein-Brabant Puurs-Sint-Amands (+)
+Za 12/12/202614:00AJU17N2R1-B-0065Wommelgem, Sportcentrum BrielekeWoka WommelgemHellvoc Hemiksem-Schelle (+)
+Za 09/01/202712:30AJU17N2R1-B-0070Schoten, Sporthal De ZeurtSveka Schoten A (+)Hellvoc Hemiksem-Schelle (+)
+Za 16/01/202712:00AJU17N2R1-B-0056Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle (+)Geel Zwart Wijnegem B
+Za 30/01/202713:30AJU17N2R1-B-0083Mechelen, Sporthal De PlaonMavoc-Mechelen (+)Hellvoc Hemiksem-Schelle (+)
+Za 06/02/202712:00AJU17N2R1-B-0050Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle (+)Koninklijke Msiks Blaasveld VC (+)
+Za 13/03/202714:30AJU17N2R1-B-0087Kalmthout, Gem. Sporthal AchterbroekFixit Volley Kalmthout (+)Hellvoc Hemiksem-Schelle (+)
+Za 20/03/202713:00AJU17N2R1-B-0078Zoersel, St Antonius Global Catering ArenaKwadrO Amigos Sint-Antonius Zoersel BHellvoc Hemiksem-Schelle (+)
+Za 17/04/202716:30AJU17N2R1-B-0046Breendonk, Gem.Sporthal VrijhalsTeamFisk Volley Klein-Brabant Puurs-Sint-Amands (+)Hellvoc Hemiksem-Schelle (+)
+Za 24/04/202712:00AJU17N2R1-B-0074Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle (+)Wavoc Waverse
+@@Jongens U13 Niveau 1
+Za 19/09/202613:00AJU13N1R1-0052Booischot, Sporthal De LichtenMendo BooischotHellvoc Hemiksem-Schelle A
+Za 26/09/202616:30AJU13N1R1-0044Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AWoka Wommelgem A (+)
+Za 03/10/202612:00AJU13N1R1-0008Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVolley Beerse A
+Za 10/10/202616:30AJU13N1R1-0001Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AMortsel Volley Antwerpen A
+Zo 18/10/202614:00AJU13N1R1-0020Mol, Sporthal Den UytMolvoc Mol AHellvoc Hemiksem-Schelle A
+Za 24/10/202614:00AJU13N1R1-0018Westerlo, Sporthal De BeeltjensVolley WesterloHellvoc Hemiksem-Schelle A
+Za 07/11/202613:00AJU13N1R1-0062Zoersel, St Antonius Global Catering ArenaKwadrO Amigos Sint-Antonius Zoersel AHellvoc Hemiksem-Schelle A
+Za 14/11/202616:00AJU13N1R1-0069Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVC Geel A
+Za 21/11/202616:00AJU13N1R1-0074Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AGrinta Valentino Lint A
+Za 28/11/202617:30AJU13N1R1-0028Schoten, Sporthal De ZeurtSveka Schoten A (+)Hellvoc Hemiksem-Schelle A
+Za 05/12/202616:30AJU13N1R1-0041Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AKwadrO Amigos Sint-Antonius Zoersel B
+Za 12/12/202614:00AJU13N1R1-0032Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVolley Noorderkempen A
+Za 09/01/202714:00AJU13N1R1-0147Geel, Sporthal AxionVC Geel AHellvoc Hemiksem-Schelle A
+Za 23/01/202716:30AJU13N1R1-0096Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AVolley Westerlo
+Zo 31/01/202712:00AJU13N1R1-0110Vosselaar, Sporthal DiepvennekeVolley Noorderkempen AHellvoc Hemiksem-Schelle A
+Za 06/02/202712:00AJU13N1R1-0106Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle ASveka Schoten A (+)
+Zo 14/02/202714:00AJU13N1R1-0079Mortsel, Sporthal Den DrabMortsel Volley Antwerpen AHellvoc Hemiksem-Schelle A
+Za 20/02/202712:00AJU13N1R1-0086Beerse, Sporthal 't BeerkeVolley Beerse AHellvoc Hemiksem-Schelle A
+Za 27/02/202717:00AJU13N1R1-0098Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AMolvoc Mol A
+Za 06/03/202714:00AJU13N1R1-0152Lint, Ontmoetingscentrum De Witte MerelGrinta Valentino Lint AHellvoc Hemiksem-Schelle A
+Za 13/03/202716:30AJU13N1R1-0130Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AMendo Booischot
+Zo 21/03/202715:00AJU13N1R1-0119Zoersel, St Antonius GemeenteschoolKwadrO Amigos Sint-Antonius Zoersel BHellvoc Hemiksem-Schelle A
+Za 17/04/202710:00AJU13N1R1-0122Wommelgem, Sportcentrum BrielekeWoka Wommelgem A (+)Hellvoc Hemiksem-Schelle A
+Za 24/04/202716:30AJU13N1R1-0140Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AKwadrO Amigos Sint-Antonius Zoersel A
+@@Jongens U13 Niveau 2 D
+Za 12/09/202611:00AJU13N2R1-D-0039Mechelen, Sporthal De PlaonMavoc-Mechelen (+)Hellvoc Hemiksem-Schelle B
+Za 19/09/202612:00AJU13N2R1-D-0031Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKoninklijke Msiks Blaasveld VC
+Za 26/09/202614:30AJU13N2R1-D-0019Breendonk, Gem.Sporthal VrijhalsTeamFisk Volley Klein-Brabant Puurs-Sint-Amands (+)Hellvoc Hemiksem-Schelle B
+Zo 04/10/202612:00AJU13N2R1-D-0043Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BWavoc Waverse B
+Za 10/10/202615:30AJU13N2R1-D-0009Mechelen, Sporthal De PlaonMavoc-Mechelen (+)Hellvoc Hemiksem-Schelle B
+Za 17/10/202614:30AJU13N2R1-D-0001Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKoninklijke Msiks Blaasveld VC
+Zo 25/10/202611:00AJU13N2R1-D-0027O.L.Vr.Waver, Sporthal BruultjeshoekWavoc Waverse AHellvoc Hemiksem-Schelle B
+Za 14/11/202614:00AJU13N2R1-D-0024Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BMavoc-Mechelen (+)
+Za 21/11/202614:00AJU13N2R1-D-0004Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BTeamFisk Volley Klein-Brabant Puurs-Sint-Amands (+)
+Za 28/11/202614:00AJU13N2R1-D-0042Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BWavoc Waverse A
+Zo 10/01/202711:00AJU13N2R1-D-0028O.L.Vr.Waver, Sporthal BruultjeshoekWavoc Waverse BHellvoc Hemiksem-Schelle B
+Zo 17/01/202713:00AJU13N2R1-D-0034Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BTeamFisk Volley Klein-Brabant Puurs-Sint-Amands (+)
+Zo 31/01/202710:00AJU13N2R1-D-0012Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BWavoc Waverse A
+Za 06/02/202714:00AJU13N2R1-D-0013Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BWavoc Waverse B
+Zo 21/02/202711:30AJU13N2R1-D-0016Tisselt, Ter MolenKoninklijke Msiks Blaasveld VCHellvoc Hemiksem-Schelle B
+Zo 07/03/202711:30AJU13N2R1-D-0046Tisselt, Ter MolenKoninklijke Msiks Blaasveld VCHellvoc Hemiksem-Schelle B
+Za 13/03/202714:00AJU13N2R1-D-0054Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BMavoc-Mechelen (+)
+Zo 21/03/202711:00AJU13N2R1-D-0058O.L.Vr.Waver, Sporthal BruultjeshoekWavoc Waverse BHellvoc Hemiksem-Schelle B
+Za 17/04/202714:30AJU13N2R1-D-0049Breendonk, Gem.Sporthal VrijhalsTeamFisk Volley Klein-Brabant Puurs-Sint-Amands (+)Hellvoc Hemiksem-Schelle B
+Zo 25/04/202711:00AJU13N2R1-D-0057O.L.Vr.Waver, Sporthal BruultjeshoekWavoc Waverse AHellvoc Hemiksem-Schelle B
+@@Meisjes U17 Niveau 2 B
+Za 12/09/202611:00AMU17N2R1-B-0036Kontich, Sporthal De NachtegaalKokaz Kontich AHellvoc Hemiksem-Schelle A
+Zo 20/09/202615:00AMU17N2R1-B-0003Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AMortsel Volley Antwerpen A
+Za 26/09/202614:00AMU17N2R1-B-0035Wommelgem, Sportcentrum BrielekeWoka WommelgemHellvoc Hemiksem-Schelle A
+Za 03/10/202618:00AMU17N2R1-B-0013O.L.Vr.Waver, Sporthal BruultjeshoekWavoc Waverse BHellvoc Hemiksem-Schelle A
+Za 17/10/202612:00AMU17N2R1-B-0027Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle ABravoc Ranst
+Za 24/10/202616:30AMU17N2R1-B-0051Tisselt, Ter MolenKoninklijke Msiks Blaasveld VCHellvoc Hemiksem-Schelle A
+Za 14/11/202615:30AMU17N2R1-B-0043Mechelen, Sporthal De PlaonMavoc-Mechelen BHellvoc Hemiksem-Schelle A
+Za 21/11/202612:00AMU17N2R1-B-0046Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AGrinta Valentino Lint B (+)
+Za 28/11/202612:00AMU17N2R1-B-0022Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AGrinta Valentino Lint A
+Za 05/12/202612:30AMU17N2R1-B-0009Breendonk, Gem.Sporthal VrijhalsTeamFisk Volley Klein-Brabant Puurs-Sint-Amands AHellvoc Hemiksem-Schelle A
+Za 09/01/202712:00AMU17N2R1-B-0063Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle ATeamFisk Volley Klein-Brabant Puurs-Sint-Amands A
+Za 16/01/202714:00AMU17N2R1-B-0070Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AWavoc Waverse B
+Za 30/01/202714:30AMU17N2R1-B-0058Mortsel, Sporthal Den DrabMortsel Volley Antwerpen AHellvoc Hemiksem-Schelle A
+Za 06/02/202716:00AMU17N2R1-B-0101Lint, Ontmoetingscentrum De Witte MerelGrinta Valentino Lint B (+)Hellvoc Hemiksem-Schelle A
+Za 20/02/202712:00AMU17N2R1-B-0107Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AKoninklijke Msiks Blaasveld VC
+Zo 07/03/202713:00AMU17N2R1-B-0098Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AMavoc-Mechelen B
+Za 13/03/202713:30AMU17N2R1-B-0082Broechem Sporthal Het Loo (zaal B)Bravoc RanstHellvoc Hemiksem-Schelle A
+Za 20/03/202712:00AMU17N2R1-B-0094Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AKokaz Kontich A
+Za 17/04/202715:00AMU17N2R1-B-0090Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AWoka Wommelgem
+Za 24/04/202713:00AMU17N2R1-B-0076Lint, Ontmoetingscentrum De Witte MerelGrinta Valentino Lint AHellvoc Hemiksem-Schelle A
+@@Meisjes U17 Niveau 3 A
+Za 19/09/202617:30AMU17N3R1-A-0062Schoten, Sporthal De ZeurtSveka Schoten B (+)Hellvoc Hemiksem-Schelle B
+Za 26/09/202611:00AMU17N3R1-A-0074Kontich, Sporthal De NachtegaalKokaz Kontich C (+)Hellvoc Hemiksem-Schelle B
+Za 03/10/202612:00AMU17N3R1-A-0069Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKwadrO Amigos Sint-Antonius Zoersel C
+Za 10/10/202614:30AMU17N3R1-A-0032Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BWavoc Waverse C
+Za 17/10/202611:30AMU17N3R1-A-0044Essen HeuvelhalDosko@Ristorno Essen CHellvoc Hemiksem-Schelle B
+Za 24/10/202614:00AMU17N3R1-A-0052Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BDosko@Ristorno Essen B
+Za 07/11/202614:00AMU17N3R1-A-0096Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKokaz Kontich B
+Za 14/11/202618:00AMU17N3R1-A-0041Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BFixit Volley Kalmthout C
+Za 21/11/202614:00AMU17N3R1-A-0001Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BTeamFisk Volley Klein-Brabant Puurs-Sint-Amands B (+)
+Za 28/11/202618:00AMU17N3R1-A-0008Boechout, Capenberg Oxaco CenterOxaco BVC Antwerpen (+)Hellvoc Hemiksem-Schelle B
+Za 05/12/202618:30AMU17N3R1-A-0028Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BMortsel Volley Antwerpen B (+)
+Za 12/12/202614:00AMU17N3R1-A-0020Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BMortsel Volley Antwerpen C (+)
+Za 09/01/202713:00AMU17N3R1-A-0147Zoersel, St Antonius Global Catering ArenaKwadrO Amigos Sint-Antonius Zoersel CHellvoc Hemiksem-Schelle B
+Za 16/01/202712:30AMU17N3R1-A-0098Mortsel, Sporthal Den DrabMortsel Volley Antwerpen C (+)Hellvoc Hemiksem-Schelle B
+Za 23/01/202714:00AMU17N3R1-A-0122Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BDosko@Ristorno Essen C
+Za 06/02/202714:00AMU17N3R1-A-0152Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKokaz Kontich C (+)
+Za 13/02/202712:30AMU17N3R1-A-0106Mortsel, Sporthal Den DrabMortsel Volley Antwerpen B (+)Hellvoc Hemiksem-Schelle B
+Za 20/02/202714:30AMU17N3R1-A-0079Breendonk, Gem.Sporthal VrijhalsTeamFisk Volley Klein-Brabant Puurs-Sint-Amands B (+)Hellvoc Hemiksem-Schelle B
+Za 27/02/202717:00AMU17N3R1-A-0140Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BSveka Schoten B (+)
+Za 06/03/202718:00AMU17N3R1-A-0018Kontich, Sporthal De NachtegaalKokaz Kontich BHellvoc Hemiksem-Schelle B
+Za 13/03/202714:00AMU17N3R1-A-0086Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BOxaco BVC Antwerpen (+)
+Za 20/03/202715:30AMU17N3R1-A-0110O.L.Vr.Waver, Sporthal BruultjeshoekWavoc Waverse CHellvoc Hemiksem-Schelle B
+Za 17/04/202712:00AMU17N3R1-A-0119Kalmthout, Gem. Sporthal AchterbroekFixit Volley Kalmthout CHellvoc Hemiksem-Schelle B
+Za 24/04/202718:00AMU17N3R1-A-0130Essen, Sporthal HemelrijkDosko@Ristorno Essen BHellvoc Hemiksem-Schelle B
+@@Meisjes U15 Niveau 1 D
+Za 12/09/202612:30AMU15N1R1-D-0002Breendonk, Gem.Sporthal VrijhalsTeamFisk Volley Klein-Brabant Puurs-Sint-Amands A (+)Hellvoc Hemiksem-Schelle A
+Za 19/09/202614:00AMU15N1R1-D-0006Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AGrinta Valentino Lint A
+Za 26/09/202612:00AMU15N1R1-D-0008Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle ATeamFisk Volley Klein-Brabant Puurs-Sint-Amands A (+)
+Za 03/10/202612:00AMU15N1R1-D-0010Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AMavoc-Mechelen A
+Za 17/10/202615:30AMU15N1R1-D-0004Mechelen, Sporthal De PlaonMavoc-Mechelen AHellvoc Hemiksem-Schelle A
+Za 24/10/202616:00AMU15N1R1-D-0018Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle AGrinta Valentino Lint A
+Zo 08/11/202611:00AMU15N1R1-D-0012Lint, Ontmoetingscentrum De Witte MerelGrinta Valentino Lint AHellvoc Hemiksem-Schelle A
+Za 14/11/202618:00AMU15N1R1-D-0016Mechelen, Sporthal De PlaonMavoc-Mechelen AHellvoc Hemiksem-Schelle A
+Za 21/11/202612:30AMU15N1R1-D-0014Breendonk, Gem.Sporthal VrijhalsTeamFisk Volley Klein-Brabant Puurs-Sint-Amands A (+)Hellvoc Hemiksem-Schelle A
+@@Meisjes U15 Niveau 3 B
+Za 12/09/202612:00AMU15N3R1-B-0041Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BVC SMASH LIER A (+)
+Za 26/09/202612:00AMU15N3R1-B-0037Tisselt, Ter MolenKoninklijke Msiks Blaasveld VC A (+)Hellvoc Hemiksem-Schelle B
+Za 10/10/202616:30AMU15N3R1-B-0018Breendonk, Gem.Sporthal VrijhalsTeamFisk Volley Klein-Brabant Puurs-Sint-Amands B (+)Hellvoc Hemiksem-Schelle B
+Za 17/10/202612:00AMU15N3R1-B-0029Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BMavoc-Mechelen B
+Zo 25/10/202614:00AMU15N3R1-B-0008Boechout, Capenberg Oxaco CenterOxaco BVC AntwerpenHellvoc Hemiksem-Schelle B
+Za 07/11/202611:30AMU15N3R1-B-0074Mechelen, Sporthal De PlaonMavoc-Mechelen BHellvoc Hemiksem-Schelle B
+Za 14/11/202612:00AMU15N3R1-B-0011Tisselt, Ter MolenKoninklijke Msiks Blaasveld VC B (+)Hellvoc Hemiksem-Schelle B
+Za 21/11/202613:30AMU15N3R1-B-0045O.L.Vr.Waver, Sporthal BruultjeshoekWavoc Waverse BHellvoc Hemiksem-Schelle B
+Za 28/11/202612:00AMU15N3R1-B-0033Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BVolmar Ekeren B
+Za 05/12/202616:30AMU15N3R1-B-0066Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKokaz Kontich
+Za 09/01/202712:00AMU15N3R1-B-0087Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BWavoc Waverse B
+Za 16/01/202712:00AMU15N3R1-B-0053Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BOxaco BVC Antwerpen
+Za 30/01/202712:00AMU15N3R1-B-0082Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKoninklijke Msiks Blaasveld VC A (+)
+Za 06/02/202714:00AMU15N3R1-B-0086Lier, Stedelijke SporthalVC SMASH LIER A (+)Hellvoc Hemiksem-Schelle B
+Za 20/02/202712:00AMU15N3R1-B-0057Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BKoninklijke Msiks Blaasveld VC B (+)
+Za 13/03/202714:30AMU15N3R1-B-0077Ekeren, Kon AtheneumVolmar Ekeren BHellvoc Hemiksem-Schelle B
+Za 20/03/202712:00AMU15N3R1-B-0065Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-Schelle BTeamFisk Volley Klein-Brabant Puurs-Sint-Amands B (+)
+Za 17/04/202718:00AMU15N3R1-B-0024Kontich, Sporthal De NachtegaalKokaz KontichHellvoc Hemiksem-Schelle B
+@@Meisjes U13 Niveau 2 B
+Za 12/09/202614:30AMU13N2R1-B-0012Ekeren, Kon AtheneumVolmar Ekeren A (+)Hellvoc Hemiksem-Schelle
+Za 19/09/202615:00AMU13N2R1-B-0039Lint, Ontmoetingscentrum De Witte MerelGrinta Valentino Lint BHellvoc Hemiksem-Schelle
+Za 26/09/202611:30AMU13N2R1-B-0042Broechem Sporthal Het Loo (zaal B)Bravoc RanstHellvoc Hemiksem-Schelle
+Zo 04/10/202610:00AMU13N2R1-B-0030Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleGeel Zwart Wijnegem A
+Zo 18/10/202610:00AMU13N2R1-B-0022Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleMortsel Volley Antwerpen B
+Za 14/11/202614:30AMU13N2R1-B-0003Tisselt, Ter MolenKoninklijke Msiks Blaasveld VCHellvoc Hemiksem-Schelle
+Zo 22/11/202614:00AMU13N2R1-B-0027Boechout, Capenberg Oxaco CenterOxaco BVC AntwerpenHellvoc Hemiksem-Schelle
+Zo 29/11/202610:00AMU13N2R1-B-0008Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleGrinta Valentino Lint C
+Za 05/12/202613:30AMU13N2R1-B-0034Mechelen, Sporthal De PlaonMavoc-Mechelen AHellvoc Hemiksem-Schelle
+Za 12/12/202612:00AMU13N2R1-B-0048Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleKoninklijke Msiks Blaasveld VC
+Za 09/01/202714:30AMU13N2R1-B-0089Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleBravoc Ranst
+Za 16/01/202714:00AMU13N2R1-B-0072Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleOxaco BVC Antwerpen
+Za 30/01/202712:00AMU13N2R1-B-0074Wijnegem, SportcentrumGeel Zwart Wijnegem AHellvoc Hemiksem-Schelle
+Zo 07/02/202712:00AMU13N2R1-B-0069Mortsel, Sporthal Den DrabMortsel Volley Antwerpen BHellvoc Hemiksem-Schelle
+Zo 07/03/202710:00AMU13N2R1-B-0079Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleMavoc-Mechelen A
+Za 20/03/202715:00AMU13N2R1-B-0052Lint, Ontmoetingscentrum De Witte MerelGrinta Valentino Lint CHellvoc Hemiksem-Schelle
+Zo 18/04/202710:00AMU13N2R1-B-0084Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleGrinta Valentino Lint B
+Za 24/04/202712:00AMU13N2R1-B-0054Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleVolmar Ekeren A (+)
+@@U11 Niveau 3 B
+Za 12/09/202612:00AU11N3R1-B-0019Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleVOS Schilde B (+)
+Za 19/09/202612:00AU11N3R1-B-0002Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleOxaco BVC Antwerpen
+Zo 27/09/202615:00AU11N3R1-B-0043Zoersel, St Antonius GemeenteschoolKwadrO Amigos Sint-Antonius Zoersel DHellvoc Hemiksem-Schelle
+Zo 04/10/202609:30AU11N3R1-B-0034Tisselt, Ter MolenKoninklijke Msiks Blaasveld VC CHellvoc Hemiksem-Schelle
+Za 17/10/202612:00AU11N3R1-B-0014Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleWavoc Waverse C
+Za 24/10/202614:00AU11N3R1-B-0006Lint, Ontmoetingscentrum De Witte MerelGrinta Valentino Lint CHellvoc Hemiksem-Schelle
+Zo 22/11/202609:30AU11N3R1-B-0027O.L.Vr.Waver, Sporthal BruultjeshoekWavoc Waverse EHellvoc Hemiksem-Schelle
+Za 28/11/202614:00AU11N3R1-B-0012Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleMortsel Volley Antwerpen D
+Za 05/12/202615:00AU11N3R1-B-0022Zoersel, St Antonius Global Catering ArenaKwadrO Amigos Sint-Antonius Zoersel FHellvoc Hemiksem-Schelle
+Za 09/01/202717:00AU11N3R1-B-0072Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleWavoc Waverse E
+Za 16/01/202712:00AU11N3R1-B-0067Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleKwadrO Amigos Sint-Antonius Zoersel F
+Za 30/01/202712:00AU11N3R1-B-0079Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleKoninklijke Msiks Blaasveld VC C
+Za 06/02/202717:30AU11N3R1-B-0063Schilde, Sporthal VennebosVOS Schilde B (+)Hellvoc Hemiksem-Schelle
+Zo 07/03/202710:00AU11N3R1-B-0050Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleGrinta Valentino Lint C
+Zo 14/03/202712:00AU11N3R1-B-0047Boechout, Capenberg Oxaco CenterOxaco BVC AntwerpenHellvoc Hemiksem-Schelle
+Za 20/03/202714:00AU11N3R1-B-0089Hemiksem, Gemeentelijk SportcentrumHellvoc Hemiksem-SchelleKwadrO Amigos Sint-Antonius Zoersel D
+Za 17/04/202713:30AU11N3R1-B-0060O.L.Vr.Waver Sporthal Bruultjeshoek (zaal -B-)Wavoc Waverse CHellvoc Hemiksem-Schelle
+Za 24/04/202712:30AU11N3R1-B-0055Mortsel, Sporthal Den DrabMortsel Volley Antwerpen DHellvoc Hemiksem-Schelle
+@@Heren promo 4 (1ste gewest Antwerpen)
+Za 12/09/202612:00AHP4A-0046Loenhout, SportschuurW.E.K. LOENHOUT BHELLVOC HEMIKSEM-SCHELLE D
+Za 19/09/202614:30AHP4A-0011Breendonk, Gem.Sporthal VrijhalsTEAMFISK VOLLEY KLEIN-BRABANT PUURS-SINT-AMANDS CHELLVOC HEMIKSEM-SCHELLE D
+Za 26/09/202614:00AHP4A-0023Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DWAVOC WAVERSE A
+Za 03/10/202620:00AHP4A-0035Mechelen, Sporthal De PlaonMAVOC-MECHELEN CHELLVOC HEMIKSEM-SCHELLE D
+Za 10/10/202618:00AHP4A-0064O.L.Vr.Waver Sporthal Bruultjeshoek (zaal -B-)WAVOC WAVERSE BHELLVOC HEMIKSEM-SCHELLE D
+Za 17/10/202617:30AHP4A-0071Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DFIXIT VOLLEY KALMTHOUT D
+Za 24/10/202614:00AHP4A-0015Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DVOS SCHILDE
+Za 14/11/202620:30AHP4A-0040Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DMAVOC-MECHELEN B
+Za 21/11/202618:00AHP4A-0118Broechem Sporthal Het Loo (zaal B)BRAVOC RANSTHELLVOC HEMIKSEM-SCHELLE D
+Za 28/11/202620:30AHP4A-0060Essen, Sporthal HemelrijkDOSKO@RISTORNO ESSEN AHELLVOC HEMIKSEM-SCHELLE D
+Za 05/12/202614:00AHP4A-0025Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DPOLONIA VOLLEY ANTWERPEN
+Za 12/12/202614:00AHP4A-0005Kalmthout, Gem. Sporthal AchterbroekFIXIT VOLLEY KALMTHOUT DHELLVOC HEMIKSEM-SCHELLE D
+Za 09/01/202717:00AHP4A-0052Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DBRAVOC RANST
+Zo 31/01/202715:00AHP4A-0110Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DW.E.K. LOENHOUT B
+Za 06/02/202714:00AHP4A-0132Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DWAVOC WAVERSE B
+Za 13/02/202720:30AHP4A-0088O.L.Vr.Waver Sporthal Bruultjeshoek (zaal -B-)WAVOC WAVERSE AHELLVOC HEMIKSEM-SCHELLE D
+Za 20/02/202715:30AHP4A-0106Mechelen, Sporthal De PlaonMAVOC-MECHELEN BHELLVOC HEMIKSEM-SCHELLE D
+Za 06/03/202720:00AHP4A-0083Schilde, Sporthal VennebosVOS SCHILDEHELLVOC HEMIKSEM-SCHELLE D
+Za 13/03/202714:00AHP4A-0126Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DDOSKO@RISTORNO ESSEN A
+Zo 21/03/202715:00AHP4A-0098Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DMAVOC-MECHELEN C
+Za 17/04/202713:00AHP4A-0095Wilrijk, Sporthal 3 EikenPOLONIA VOLLEY ANTWERPENHELLVOC HEMIKSEM-SCHELLE D
+Za 24/04/202714:00AHP4A-0078Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DTEAMFISK VOLLEY KLEIN-BRABANT PUURS-SINT-AMANDS C
+@@Dames promo 4 (1ste gewest Antwerpen)
+Za 12/09/202620:30ADP4A-0013Berchem, Sporthal 't Rooi 2OSTA BERCHEM BHELLVOC HEMIKSEM-SCHELLE D
+Za 19/09/202616:00ADP4A-0044Lier, Stedelijke SporthalVC SMASH LIER BHELLVOC HEMIKSEM-SCHELLE D
+Za 26/09/202620:00ADP4A-0076Kontich, Sporthal De NachtegaalKOKAZ KONTICH AHELLVOC HEMIKSEM-SCHELLE D
+Za 03/10/202614:00ADP4A-0029Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DWOKA WOMMELGEM B
+Za 10/10/202620:30ADP4A-0003Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DVOLMAR EKEREN B
+Za 17/10/202615:30ADP4A-0042Mechelen, Sporthal De PlaonMAVOC-MECHELEN CHELLVOC HEMIKSEM-SCHELLE D
+Zo 25/10/202614:00ADP4A-0052Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DMORTSEL VOLLEY ANTWERPEN C
+Zo 15/11/202618:00ADP4A-0086Wijnegem, SportcentrumGEEL ZWART WIJNEGEM BHELLVOC HEMIKSEM-SCHELLE D
+Za 21/11/202620:30ADP4A-0033O.L.Vr.Waver Sporthal Bruultjeshoek (zaal -B-)WAVOC WAVERSE BHELLVOC HEMIKSEM-SCHELLE D
+Za 28/11/202616:00ADP4A-0056Loenhout, SportschuurW.E.K. LOENHOUT BHELLVOC HEMIKSEM-SCHELLE D
+Za 05/12/202618:30ADP4A-0062Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DKADEE BORNEM
+Za 12/12/202620:30ADP4A-0108Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DMAVOC-MECHELEN C
+Zo 10/01/202716:00ADP4A-0118Mortsel, Sporthal Den DrabMORTSEL VOLLEY ANTWERPEN CHELLVOC HEMIKSEM-SCHELLE D
+Zo 17/01/202715:00ADP4A-0009Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DKOKAZ KONTICH A
+Zo 31/01/202715:00ADP4A-0021Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DGEEL ZWART WIJNEGEM B
+Za 06/02/202720:30ADP4A-0081Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DOSTA BERCHEM B
+Za 20/02/202716:00ADP4A-0093Wommelgem, Sportcentrum BrielekeWOKA WOMMELGEM BHELLVOC HEMIKSEM-SCHELLE D
+Za 06/03/202716:30ADP4A-0069Ekeren, Kon AtheneumVOLMAR EKEREN BHELLVOC HEMIKSEM-SCHELLE D
+Za 13/03/202720:30ADP4A-0102Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DWAVOC WAVERSE B
+Za 20/03/202714:00ADP4A-0130Bornem, Sporthal BreevenKADEE BORNEMHELLVOC HEMIKSEM-SCHELLE D
+Za 17/04/202717:30ADP4A-0114Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DVC SMASH LIER B
+Za 24/04/202720:30ADP4A-0122Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE DW.E.K. LOENHOUT B
+@@Dames promo 5 (2de gewest Antwerpen A)
+Za 12/09/202616:30ADP5AA-0058Ekeren, Kon AtheneumVOLMAR EKEREN CHELLVOC HEMIKSEM-SCHELLE E
+Za 19/09/202614:00ADP5AA-0030Wommelgem, Sportcentrum BrielekeWOKA WOMMELGEM CHELLVOC HEMIKSEM-SCHELLE E
+Za 26/09/202618:30ADP5AA-0064Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE EOSTA BERCHEM C
+Za 03/10/202617:30ADP5AA-0010Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE EGEEL ZWART WIJNEGEM C
+Za 10/10/202618:30ADP5AA-0014Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE EOXACO BVC ANTWERPEN B
+Za 17/10/202617:30ADP5AA-0034Schoten, Sporthal De ZeurtSVEKA SCHOTEN AHELLVOC HEMIKSEM-SCHELLE E
+Za 24/10/202616:00ADP5AA-0004Loenhout, SportschuurW.E.K. LOENHOUT CHELLVOC HEMIKSEM-SCHELLE E
+Za 14/11/202620:30ADP5AA-0022Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE EGRINTA VALENTINO LINT D
+Za 21/11/202618:30ADP5AA-0038Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE EMORTSEL VOLLEY ANTWERPEN D
+Zo 29/11/202613:00ADP5AA-0054Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE EFIXIT VOLLEY KALMTHOUT C
+Za 05/12/202620:00ADP5AA-0044Broechem Sporthal Het Loo (zaal B)BRAVOC RANST BHELLVOC HEMIKSEM-SCHELLE E
+Za 12/12/202618:30ADP5AA-0094Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE EWOKA WOMMELGEM C
+Za 09/01/202714:30ADP5AA-0104Mortsel, Sporthal Den DrabMORTSEL VOLLEY ANTWERPEN DHELLVOC HEMIKSEM-SCHELLE E
+Za 16/01/202712:00ADP5AA-0075Wijnegem, SportcentrumGEEL ZWART WIJNEGEM CHELLVOC HEMIKSEM-SCHELLE E
+Za 30/01/202717:00ADP5AA-0085Lint, Ontmoetingscentrum De Witte MerelGRINTA VALENTINO LINT DHELLVOC HEMIKSEM-SCHELLE E
+Za 06/02/202718:30ADP5AA-0070Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE EW.E.K. LOENHOUT C
+Za 20/02/202714:00ADP5AA-0114Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE EBRAVOC RANST B
+Za 06/03/202718:00ADP5AA-0082Boechout, Capenberg Oxaco CenterOXACO BVC ANTWERPEN BHELLVOC HEMIKSEM-SCHELLE E
+Za 13/03/202718:30ADP5AA-0101Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE ESVEKA SCHOTEN A
+Za 20/03/202718:00ADP5AA-0132Berchem, Sporthal 't Rooi 2OSTA BERCHEM CHELLVOC HEMIKSEM-SCHELLE E
+Za 17/04/202714:00ADP5AA-0120Kalmthout, Gem. Sporthal AchterbroekFIXIT VOLLEY KALMTHOUT CHELLVOC HEMIKSEM-SCHELLE E
+Za 24/04/202718:30ADP5AA-0124Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE EVOLMAR EKEREN C
+@@Dames promo 5 (2de gewest Antwerpen B)
+Za 12/09/202614:00ADP5AB-0040Tisselt, Ter MolenKONINKLIJKE MSIKS BLAASVELD VC CHELLVOC HEMIKSEM-SCHELLE F
+Zo 20/09/202615:30ADP5AB-0018Edegem, Sporthal Den WillecomJONG EDEGEMHELLVOC HEMIKSEM-SCHELLE F
+Za 26/09/202612:00ADP5AB-0062Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE FWOKA WOMMELGEM D
+Za 03/10/202618:00ADP5AB-0028O.L.Vr.Waver Sporthal Bruultjeshoek (zaal -B-)WAVOC WAVERSE VBC CHELLVOC HEMIKSEM-SCHELLE F
+Zo 11/10/202616:00ADP5AB-0050Mortsel, Sporthal Den DrabMORTSEL VOLLEY ANTWERPEN EHELLVOC HEMIKSEM-SCHELLE F
+Zo 18/10/202614:00ADP5AB-0008Mortsel, Sporthal Den DrabMORTSEL VOLLEY ANTWERPEN FHELLVOC HEMIKSEM-SCHELLE F
+Za 24/10/202612:00ADP5AB-0058Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE FTEAM FISK VOLLEY KLEIN-BRABANT PUURS-SINT-AMANDS B
+Za 14/11/202612:00ADP5AB-0048Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE FBRAVOC RANST C
+Za 21/11/202612:00ADP5AB-0020Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE FW.E.K. LOENHOUT D
+Za 28/11/202612:00ADP5AB-0099Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE FKOKAZ KONTICH B
+Zo 06/12/202613:00ADP5AB-0002Lint, Ontmoetingscentrum De Witte MerelGRINTA VALENTINO LINT EHELLVOC HEMIKSEM-SCHELLE F
+Za 12/12/202612:00ADP5AB-0080Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE FJONG EDEGEM
+Za 09/01/202712:00ADP5AB-0106Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE FKONINKLIJKE MSIKS BLAASVELD VC C
+Za 16/01/202718:00ADP5AB-0130Wommelgem, Sportcentrum BrielekeWOKA WOMMELGEM DHELLVOC HEMIKSEM-SCHELLE F
+Za 30/01/202718:00ADP5AB-0112Broechem Sporthal Het Loo (zaal B)BRAVOC RANST CHELLVOC HEMIKSEM-SCHELLE F
+Za 06/02/202718:00ADP5AB-0032Kontich, Sporthal De NachtegaalKOKAZ KONTICH BHELLVOC HEMIKSEM-SCHELLE F
+Za 20/02/202716:30ADP5AB-0124Breendonk, Gem.Sporthal VrijhalsTEAM FISK VOLLEY KLEIN-BRABANT PUURS-SINT-AMANDS BHELLVOC HEMIKSEM-SCHELLE F
+Za 06/03/202712:00ADP5AB-0092Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE FWAVOC WAVERSE VBC C
+Za 13/03/202712:00ADP5AB-0089Loenhout, SportschuurW.E.K. LOENHOUT DHELLVOC HEMIKSEM-SCHELLE F
+Za 20/03/202712:00ADP5AB-0068Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE FGRINTA VALENTINO LINT E
+Za 17/04/202713:00ADP5AB-0116Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE FMORTSEL VOLLEY ANTWERPEN E
+Za 24/04/202712:00ADP5AB-0073Hemiksem, Gemeentelijk SportcentrumHELLVOC HEMIKSEM-SCHELLE FMORTSEL VOLLEY ANTWERPEN F
